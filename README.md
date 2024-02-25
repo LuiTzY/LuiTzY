@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 Backend Web Developer | 🎓 Software Development Student
+👨‍💻 Backend Web Developer |
+🎓 Software Development Student
 ¡Hello! 👋 I'm [LuiTzY], a passionate backend web developer in training and a software development student at ITLA (Instituto Tecnológico de las Américas). I would like specialize in building robust services and APIs using technologies like Node.js, Express, MongoDB, and others.
 
 # 💻 Tech Stack:
